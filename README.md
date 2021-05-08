@@ -44,20 +44,6 @@ BIP44 - Bitcoin improvement proposals - [BIP44 documentation](https://www.cs.ute
 
 Web3 - an Ethereum Javascript API - [web3 documentation](https://web3js.readthedocs.io/en/v1.3.4/)
 
-
-///import os
-///import requests
-///from dotenv import load_dotenv
-///load_dotenv()
-///from bip44 import Wallet
-from web3 import Account
-from web3.auto.infura.kovan import w3
-from web3 import middleware
-from web3.gas_strategies.time_based import medium_gas_price_strategy
-///import streamlit as st
-///from dataclasses import dataclass
-///from typing import Any, List
-
 ---
 
 ## Installation Guide
@@ -75,7 +61,6 @@ Install the Dataclass library using the following command: 'from dataclasses imp
 Install the BIP44 library using the following command: 'from bip44 import Wallet'
 
 Install the web3 libraries using the following commands: 'from web3 import Account', 'from web3.auto.infura.kovan import w3', 'from web3 import middleware', 'from web3.gas_strategies.time_based import medium_gas_price_strategy'
-
 
 --- 
 
