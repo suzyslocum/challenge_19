@@ -1,6 +1,6 @@
-# Create a Blockchain Based Ledger System & Web Interface
+# Create a Crypto Wallet and Hire a Fintech Professional
 
-*Module 19 Challenge Assignment *
+*Module 19 Challenge Assignment*
 
 ---
 
